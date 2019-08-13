@@ -15,10 +15,10 @@ import axios from "axios";
 // );
 
 //Azure url
-//axios.defaults.baseURL = "https://lms20190724045409.azurewebsites.net";
+axios.defaults.baseURL = "https://ipedgetest20190814090502.azurewebsites.net/";
 
 //Local url
-axios.defaults.baseURL = "http://192.168.1.115:59941";
+//axios.defaults.baseURL = "http://192.168.1.115:59941";
 
 ReactDOM.render(
   <div>
