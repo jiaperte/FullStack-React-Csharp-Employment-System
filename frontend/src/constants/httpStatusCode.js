@@ -1,0 +1,3 @@
+export const HTTP_STATUS_CODE_OK = 200;
+export const HTTP_STATUS_CODE_UNAUTHORIZED = 401;
+export const HTTP_STATUS_CODE_CONFLICT = 409;
